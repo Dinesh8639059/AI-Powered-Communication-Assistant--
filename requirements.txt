@@ -1,0 +1,9 @@
+streamlit==1.38.0
+pandas==2.2.2
+matplotlib==3.9.2
+textblob==0.18.0.post0
+scikit-learn==1.5.1
+transformers==4.44.2
+torch>=2.3.0
+numpy
+sentence-transformers  # optional, fallback exists; install if you want embedding-based retrieval
