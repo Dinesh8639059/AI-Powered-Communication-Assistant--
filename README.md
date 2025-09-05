@@ -1,4 +1,6 @@
 AI-Powered Communication Assistant
+Demo video url: https://drive.google.com/file/d/1wtXqFPFTEvXub4JEc6a2OUt2KB7o4zRC/view?usp=sharing 
+
 Overview
 
 The AI-Powered Communication Assistant is a full-stack email management platform that helps users automatically process, categorize, and respond to incoming emails. It integrates Natural Language Processing (NLP) heuristics and a Retrieval-Augmented Generation (RAG) model to provide AI-powered replies.
