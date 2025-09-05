@@ -7,3 +7,4 @@ transformers==4.44.2
 torch>=2.3.0
 numpy
 sentence-transformers  # optional, fallback exists; install if you want embedding-based retrieval
+openai==1.30.0
